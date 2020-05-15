@@ -1,0 +1,4 @@
+numpy
+newspaper3k
+nltk
+scikit_learn
